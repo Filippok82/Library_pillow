@@ -49,3 +49,4 @@ new_width  = int(new_height * width / height)
  
 tatras = tatras.resize((new_width, new_height), Image.ANTIALIAS)
 tatras.show()
+
